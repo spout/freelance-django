@@ -19,7 +19,7 @@ France
 
 Belgique
 --------
-* Stéphane Reynders - Wellin - [spout](http://spout.be) - stephane.reynders at gmail dot com
+* Stéphane Reynders - Houyet - [spout](http://spout.be) - stephane.reynders at gmail dot com
 
 * Emmanuelle Delescolle - Namur - [LevIT](http://www.levit.be) - emma at levit dot be
 
